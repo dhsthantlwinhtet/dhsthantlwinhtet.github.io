@@ -1,18 +1,9 @@
-h1{
-  font-family: verdana;
-  color: yellow;
-}
-
- h2{
-  font-family: verdana;
-  color: yellow;
-}
-
-p{
- font-family: verdana;
-  color: yellow;
-}
-
 body {
-    background-color: #00008B;
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
 }
